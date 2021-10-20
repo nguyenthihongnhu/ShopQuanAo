@@ -1,0 +1,138 @@
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\bin\Debug\BUS.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\bin\Debug\DAL.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\bin\Debug\DTO.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\obj\Debug\BUS.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.dll
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.dll
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.dll
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.dll
+G:\QUYNH\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.dll
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.dll
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Máy tính\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.dll
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.dll
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.dll
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.dll
+E:\Học kì 3_N2\Lập trình Web (Vĩnh)\Đồ án lập trình web\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+R:\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.dll
+R:\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+R:\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.dll
+R:\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.dll
+R:\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+R:\ShopQuanAo\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+R:\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+R:\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+R:\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+R:\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.dll
+R:\ShopQuanAo\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+D:\WorkProject\Shop\ShopQuanAo\BUS\bin\Debug\BUS.dll
+D:\WorkProject\Shop\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+D:\WorkProject\Shop\ShopQuanAo\BUS\bin\Debug\DAL.dll
+D:\WorkProject\Shop\ShopQuanAo\BUS\bin\Debug\DTO.dll
+D:\WorkProject\Shop\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+D:\WorkProject\Shop\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+D:\WorkProject\Shop\ShopQuanAo\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\WorkProject\Shop\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\WorkProject\Shop\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\WorkProject\Shop\ShopQuanAo\BUS\obj\Debug\BUS.dll
+D:\WorkProject\Shop\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\BUS.dll
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DAL.dll
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DTO.dll
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.dll
+D:\Đồ án Web\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\BUS.dll
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DAL.dll
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DTO.dll
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.dll
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\bin\Debug\BUS.dll
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\bin\Debug\DAL.dll
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\bin\Debug\DTO.dll
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\obj\Debug\BUS.dll
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\bin\Debug\BUS.dll
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\bin\Debug\DAL.dll
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\bin\Debug\DTO.dll
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\obj\Debug\BUS.dll
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\BUS\obj\Debug\BUS.pdb
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\bin\Debug\BUS.dll
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\bin\Debug\BUS.pdb
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\bin\Debug\DAL.dll
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\bin\Debug\DTO.dll
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\bin\Debug\DAL.pdb
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\bin\Debug\DTO.pdb
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\obj\Debug\BUS.dll
+E:\ShopQuanAo.Fix06\ShopQuanAo\BUS\obj\Debug\BUS.pdb

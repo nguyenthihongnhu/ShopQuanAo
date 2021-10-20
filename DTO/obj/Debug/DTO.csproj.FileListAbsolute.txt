@@ -1,0 +1,47 @@
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\DTO\bin\Debug\DTO.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\DTO\obj\Debug\DTO.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.dll
+C:\Users\Pham Duy Canh\Desktop\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+G:\QUYNH\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.dll
+G:\QUYNH\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+G:\QUYNH\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+G:\QUYNH\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.dll
+G:\QUYNH\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\OneDrive\Máy tính\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+R:\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.dll
+R:\ShopQuanAo\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+R:\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+R:\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+R:\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.dll
+R:\ShopQuanAo\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+D:\WorkProject\Shop\ShopQuanAo\DTO\bin\Debug\DTO.dll
+D:\WorkProject\Shop\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+D:\WorkProject\Shop\ShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\WorkProject\Shop\ShopQuanAo\DTO\obj\Debug\DTO.dll
+D:\WorkProject\Shop\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\DTO\bin\Debug\DTO.dll
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\DTO\obj\Debug\DTO.dll
+R:\ShopQuanAo.Fix03\ShopQuanAo.Fix03\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\DTO\bin\Debug\DTO.dll
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\DTO\obj\Debug\DTO.dll
+R:\ShopQuanAo.Fix04\ShopQuanAo.Fix04\ShopQuanAo\DTO\obj\Debug\DTO.pdb
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\DTO\bin\Debug\DTO.dll
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\DTO\bin\Debug\DTO.pdb
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\DTO\obj\Debug\DTO.dll
+D:\WorkProject\HongNhu\ShopQuanAo.Fix05\ShopQuanAo\DTO\obj\Debug\DTO.pdb
